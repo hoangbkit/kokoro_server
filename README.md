@@ -32,7 +32,3 @@ To start the server:
 ```bash
 python kokoro_server.py
 ```
-
-## License
-
-MIT License
