@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+soundfile
+python-multipart
+kokoro_onnx
+pyinstaller
+python-dotenv
